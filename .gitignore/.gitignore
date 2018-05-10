@@ -1,1 +1,4 @@
-dataArr=[{uname:'kanagavel',fname:'vinayagam'}]; 
+[{
+uname:'kanagavel',
+fname:'vinayagam'
+}]; 
